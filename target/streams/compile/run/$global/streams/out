@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mRunning Program [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Lynn\Documents\GitHub\todo-api\target\scala-2.10\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Lynn\Documents\GitHub\todo-api\lib\ij.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Lynn\Documents\GitHub\todo-api\lib\jython.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Lynn\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
