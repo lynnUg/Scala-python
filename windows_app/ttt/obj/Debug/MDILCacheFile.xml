@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Bin\Debug\ttt_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/24/2014 6:56:13 AM">
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\obj\Debug\ttt.dll" archivePath="ttt.dll" lastWriteTime="7/24/2014 6:56:13 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/23/2014 3:36:26 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/19/2014 5:03:10 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\packages\AForge.2.2.5\lib\AForge.dll" archivePath="AForge.dll" lastWriteTime="7/23/2014 1:39:18 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\packages\AForge.2.2.5\lib\AForge.xml" archivePath="AForge.xml" lastWriteTime="7/23/2014 1:39:18 AM" />
+  <file source="C:\Users\BEATRICE\documents\visual studio 2013\Projects\ttt\ttt\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/19/2014 5:03:13 AM" />
+</xapCache>

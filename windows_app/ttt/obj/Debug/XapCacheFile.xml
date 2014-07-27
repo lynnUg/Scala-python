@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Bin\Debug\ttt_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="26/07/2014 02:15:07">
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\obj\Debug\ttt.dll" archivePath="ttt.dll" lastWriteTime="26/07/2014 02:15:06" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/07/2014 03:36:28" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="19/07/2014 05:03:12" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\packages\AForge.2.2.5\lib\AForge.dll" archivePath="AForge.dll" lastWriteTime="23/07/2014 01:39:20" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\packages\AForge.2.2.5\lib\AForge.xml" archivePath="AForge.xml" lastWriteTime="23/07/2014 01:39:20" />
+  <file source="C:\Users\Lynn\Documents\Visual Studio 2013\Projects\ttt\ttt\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="19/07/2014 05:03:14" />
+</xapCache>

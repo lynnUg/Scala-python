@@ -41,11 +41,12 @@ def receive_image():
 	with open("imageToSave3.jpg", "rb") as imageFile:
 		to_be_sent_str = imageFile.read()
 	#print imp
+	test=bytearray(to_be_sent_str)
 	print "done"
 	#RoiManager.runCommand("Show All with labels")
 	#RoiManager.runCommand("Show All")
 	#return "other"
-	return to_be_sent_str
+	return test
 @app.route('/')  
 def hello():  
    IJ.showMessage("Hello World!")
